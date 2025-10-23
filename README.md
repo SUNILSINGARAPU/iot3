@@ -1,7 +1,7 @@
 git clone https://github.com/SUNILSINGARAPU/iot3.git
 
-cd mqtt
+cd home automation
 
-pip install numpy pandas matplotlib plotly
+pip install streamlit requests
 
 streamlit run iot3.py
