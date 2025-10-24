@@ -1,6 +1,6 @@
 git clone https://github.com/SUNILSINGARAPU/iot3.git
 
-cd home automation
+cd iot3
 
 pip install streamlit requests
 
